@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTSpmobpro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="add_favr">Added</string>
+    <string name="remove_favr">Cancel</string>
+    <string name="no_favorites_items">Tidak ada Barang yang dipilih</string>
+    <string name="no_favorites_msg">Silahkan Tekan Tahan Barang Yang  Akan Dipilih</string>
+    <string name="Pemesanan">pemesanan</string>
+</resources>

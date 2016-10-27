@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="product_list_item_bg">#fff</color>
+    <color name="view_divider_color">#BABABA</color>
+    <color name="jet">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#fff</color>
+    <color name="hijau">#26e115</color>
+    <color name="merah">#e11515</color>
+
+
+
+
+</resources>
